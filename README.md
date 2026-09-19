@@ -82,7 +82,7 @@ Worth reading before reporting these as bugs:
 ---
 
 <div align="center">
-  Made with ❤️ by NiftyBox<br>
+  Made with ❤️ by the Loupewire Team<br>
   <a href="https://github.com/loupewire/loupewire-support/issues">Issues</a> •
   <a href="https://github.com/loupewire/loupewire-support/discussions">Discussions</a>
 </div>
