@@ -1,0 +1,25 @@
+name: Welcome New Contributors
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: Welcome first-time contributors
+        uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: |
+            👋 **Thanks for opening your first issue!**
+
+            I'll review this as soon as possible. In the meantime:
+
+            - 📖 Read the [known limits](https://github.com/niftybox/loupewire-support#-known-limits) —
+              response bodies are not captured, and that one is a platform limit rather than a bug
+            - 🔒 Double-check that any screenshot or HAR you attached has its tokens and cookies masked
+
+            Thanks for helping improve Loupewire! 🚀

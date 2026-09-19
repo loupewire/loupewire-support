@@ -1,0 +1,89 @@
+name: 🐛 Bug Report
+description: Report a bug or issue with Loupewire
+title: "[Bug]: "
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Your feedback helps improve Loupewire for everyone.
+
+        **Before you paste anything:** Loupewire exists to keep secrets out of what you share. Please
+        check that headers, cookies and URLs in your screenshots are masked, or remove them.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the bug clearly and concisely
+      placeholder: A request shows in the table but the Headers panel stays empty...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce this issue?
+      placeholder: |
+        1. Open the tracker window with Ctrl+Shift+1
+        2. Visit a page that sends...
+        3. Click the request and open the Headers tab
+        4. See the problem
+
+  - type: input
+    id: version
+    attributes:
+      label: Loupewire Version
+      description: "Find this on chrome://extensions, or in the extension's options page"
+      placeholder: "e.g., 1.0.0"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      options:
+        - Chrome
+        - Edge
+        - Brave
+        - Opera
+        - Arc
+        - Other Chromium-based
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating System
+      options:
+        - Windows
+        - macOS
+        - Linux
+        - Other
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Drag & drop images here or paste from clipboard to help explain the problem
+      placeholder: You can paste images directly here
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Add any other context about the problem here
+      placeholder: Console errors from the tracker page, related issues, or anything else that might help...
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Before submitting
+      options:
+        - label: I have searched existing issues to avoid duplicates
+          required: true
+        - label: I have removed or masked any tokens, cookies and personal data in screenshots and logs
+          required: true

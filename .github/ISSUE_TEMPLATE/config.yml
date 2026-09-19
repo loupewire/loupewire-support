@@ -1,0 +1,16 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/niftybox/loupewire-support/discussions
+    about: Ask questions and discuss ideas with the community
+# Uncomment once the extension is published, replacing the placeholder ids.
+#   - name: 🛍️ Chrome Web Store
+#     url: https://chromewebstore.google.com/detail/<CHROME_ID>
+#     about: Install and rate on Chrome Web Store
+#   - name: 🛍️ Microsoft Edge Add-ons
+#     url: https://microsoftedge.microsoft.com/addons/detail/<EDGE_ID>
+#     about: Install and rate on Edge Add-ons
+# Uncomment once the privacy policy is live.
+#   - name: 📖 Privacy & Terms
+#     url: https://niftybox.github.io/loupewire/privacy-policy
+#     about: How Loupewire handles your data
