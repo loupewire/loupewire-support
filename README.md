@@ -13,7 +13,7 @@ HAR you can attach to a ticket.
 
 Found a bug? Let us know!
 
-**[Report Bug →](https://github.com/niftybox/loupewire-support/issues/new?template=bug_report.yml)**
+**[Report Bug →](https://github.com/loupewire/loupewire-support/issues/new?template=bug_report.yml)**
 
 ---
 
@@ -21,13 +21,13 @@ Found a bug? Let us know!
 
 Have an idea to make Loupewire better?
 
-**[Request Feature →](https://github.com/niftybox/loupewire-support/issues/new?template=feature_request.yml)**
+**[Request Feature →](https://github.com/loupewire/loupewire-support/issues/new?template=feature_request.yml)**
 
 ---
 
 ## ❓ Get Help
 
-**[Ask a Question →](https://github.com/niftybox/loupewire-support/issues/new?template=question.yml)** | **[Discussions →](https://github.com/niftybox/loupewire-support/discussions)**
+**[Ask a Question →](https://github.com/loupewire/loupewire-support/issues/new?template=question.yml)** | **[Discussions →](https://github.com/loupewire/loupewire-support/discussions)**
 
 ---
 
@@ -83,6 +83,6 @@ Worth reading before reporting these as bugs:
 
 <div align="center">
   Made with ❤️ by NiftyBox<br>
-  <a href="https://github.com/niftybox/loupewire-support/issues">Issues</a> •
-  <a href="https://github.com/niftybox/loupewire-support/discussions">Discussions</a>
+  <a href="https://github.com/loupewire/loupewire-support/issues">Issues</a> •
+  <a href="https://github.com/loupewire/loupewire-support/discussions">Discussions</a>
 </div>

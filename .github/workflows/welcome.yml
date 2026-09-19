@@ -18,7 +18,7 @@ jobs:
 
             I'll review this as soon as possible. In the meantime:
 
-            - 📖 Read the [known limits](https://github.com/niftybox/loupewire-support#-known-limits) —
+            - 📖 Read the [known limits](https://github.com/loupewire/loupewire-support#-known-limits) —
               response bodies are not captured, and that one is a platform limit rather than a bug
             - 🔒 Double-check that any screenshot or HAR you attached has its tokens and cookies masked
 
