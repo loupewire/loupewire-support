@@ -4,12 +4,10 @@ Official bug tracker and feature request hub for **Loupewire** - a Chromium exte
 HTTP traffic from every tab in one window, masks secrets on screen and in the file, and exports a
 HAR you can attach to a ticket.
 
-**[Website](https://loupewire.com/)** ·
-**[Chrome Web Store](https://chromewebstore.google.com/detail/dkoclbklglebhboiodckkicoajbcmbjd)** ·
-**[Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/fobjeeglpkfdalljagicbgelbdmhlhgf)** ·
-**[Guides](https://loupewire.com/guides/)** ·
-**[Privacy Policy](https://loupewire.com/privacy-policy/)** ·
-**[Terms](https://loupewire.com/terms/)**
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/dkoclbklglebhboiodckkicoajbcmbjd?label=chrome%20web%20store&logo=googlechrome&logoColor=white&color=4285F4)](https://chromewebstore.google.com/detail/dkoclbklglebhboiodckkicoajbcmbjd)
+[![Chrome Web Store users](https://img.shields.io/chrome-web-store/users/dkoclbklglebhboiodckkicoajbcmbjd?logo=googlechrome&logoColor=white&color=4285F4)](https://chromewebstore.google.com/detail/dkoclbklglebhboiodckkicoajbcmbjd)
+[![Chrome Web Store rating](https://img.shields.io/chrome-web-store/rating/dkoclbklglebhboiodckkicoajbcmbjd?logo=googlechrome&logoColor=white&color=4285F4)](https://chromewebstore.google.com/detail/dkoclbklglebhboiodckkicoajbcmbjd)
+[![Edge Add-ons](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Ffobjeeglpkfdalljagicbgelbdmhlhgf&query=%24.version&prefix=v&label=edge%20add-ons&logo=microsoftedge&logoColor=white&color=0078D7)](https://microsoftedge.microsoft.com/addons/detail/fobjeeglpkfdalljagicbgelbdmhlhgf)
 
 ---
 
@@ -57,6 +55,15 @@ Worth reading before reporting these as bugs:
   them - in Manifest V2 or V3. Tools that show bodies attach a debugger to each tab or inject
   scripts into pages; Loupewire does neither.
 - **Chromium browsers only.** Chrome, Edge & Chromium Browsers. No Firefox, no Safari.
+
+---
+
+## 🌐 Links
+
+- **Website:** [loupewire.com](https://loupewire.com/)
+- **Guides:** [loupewire.com/guides](https://loupewire.com/guides/)
+- **Privacy Policy:** [loupewire.com/privacy-policy](https://loupewire.com/privacy-policy/)
+- **Terms:** [loupewire.com/terms](https://loupewire.com/terms/)
 
 ---
 
