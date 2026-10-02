@@ -4,10 +4,12 @@ Official bug tracker and feature request hub for **Loupewire** - a Chromium exte
 HTTP traffic from every tab in one window, masks secrets on screen and in the file, and exports a
 HAR you can attach to a ticket.
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/dkoclbklglebhboiodckkicoajbcmbjd?label=Chrome&style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/dkoclbklglebhboiodckkicoajbcmbjd)
-[![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/dkoclbklglebhboiodckkicoajbcmbjd?label=Users&style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/dkoclbklglebhboiodckkicoajbcmbjd)
-[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/dkoclbklglebhboiodckkicoajbcmbjd?label=Rating&style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/dkoclbklglebhboiodckkicoajbcmbjd)
-[![Microsoft Edge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Ffobjeeglpkfdalljagicbgelbdmhlhgf&query=%24.version&prefix=v&label=Edge&color=0078D4&style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://microsoftedge.microsoft.com/addons/detail/fobjeeglpkfdalljagicbgelbdmhlhgf)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/dkoclbklglebhboiodckkicoajbcmbjd?label=Chrome&color=blue&style=for-the-badge)](https://chromewebstore.google.com/detail/dkoclbklglebhboiodckkicoajbcmbjd)
+[![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/dkoclbklglebhboiodckkicoajbcmbjd?label=Chrome%20Users&color=brightgreen&style=for-the-badge)](https://chromewebstore.google.com/detail/dkoclbklglebhboiodckkicoajbcmbjd)
+[![Chrome Web Store Rating](https://img.shields.io/chrome-web-store/rating/dkoclbklglebhboiodckkicoajbcmbjd?label=Chrome%20Rating&color=brightgreen&style=for-the-badge)](https://chromewebstore.google.com/detail/dkoclbklglebhboiodckkicoajbcmbjd)<br>
+[![Microsoft Edge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Ffobjeeglpkfdalljagicbgelbdmhlhgf&query=%24.version&prefix=v&label=Edge&color=blue&style=for-the-badge)](https://microsoftedge.microsoft.com/addons/detail/fobjeeglpkfdalljagicbgelbdmhlhgf)
+[![Microsoft Edge Users](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Ffobjeeglpkfdalljagicbgelbdmhlhgf&query=%24.activeInstallCount&label=Edge%20Users&color=brightgreen&style=for-the-badge)](https://microsoftedge.microsoft.com/addons/detail/fobjeeglpkfdalljagicbgelbdmhlhgf)
+[![Microsoft Edge Rating](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Ffobjeeglpkfdalljagicbgelbdmhlhgf&query=%24.averageRating&suffix=%2F5&label=Edge%20Rating&color=brightgreen&style=for-the-badge)](https://microsoftedge.microsoft.com/addons/detail/fobjeeglpkfdalljagicbgelbdmhlhgf)
 
 ---
 
