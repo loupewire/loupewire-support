@@ -1,6 +1,6 @@
 # Loupewire Support
 
-Official bug tracker and feature request hub for **Loupewire** — a browser extension that captures
+Official bug tracker and feature request hub for **Loupewire** - a Chromium extension that captures
 HTTP traffic from every tab in one window, masks secrets on screen and in the file, and exports a
 HAR you can attach to a ticket.
 
@@ -39,10 +39,10 @@ Have an idea to make Loupewire better?
 
 Before submitting an issue:
 
-- **Search first** — Check if your issue already exists
-- **Be specific** — Provide details, steps to reproduce, and screenshots
-- **One issue per report** — Don't combine multiple bugs or features
-- **No sensitive data** — Loupewire exists to keep credentials out of what you share. Mask or remove
+- **Search first** - check if your issue already exists
+- **Be specific** - provide details, steps to reproduce, and screenshots
+- **One issue per report** - don't combine multiple bugs or features
+- **No sensitive data** - Loupewire exists to keep credentials out of what you share. Mask or remove
   tokens, cookies and personal data before pasting a screenshot, a HAR file or a log
 
 _This is a support repository for bug reports and feature requests. The source code is private._
@@ -54,32 +54,17 @@ _This is a support repository for bug reports and feature requests. The source c
 Worth reading before reporting these as bugs:
 
 - **No response bodies.** `webRequest`, the API that makes all-tab capture possible, never exposes
-  them — in Manifest V2 or V3. Tools that show bodies attach a debugger to each tab or inject
+  them - in Manifest V2 or V3. Tools that show bodies attach a debugger to each tab or inject
   scripts into pages; Loupewire does neither.
-- **Chromium browsers only.** Chrome, Edge, Brave, Opera, Arc. No Firefox, no Safari.
-
----
-
-## 🌐 Links
-
-- **Chrome Web Store:** _not published yet_
-- **Microsoft Edge Add-ons:** _not published yet_
-- **Privacy Policy:** _coming with the first release_
-- **Terms:** _coming with the first release_
+- **Chromium browsers only.** Chrome, Edge & Chromium Browsers. No Firefox, no Safari.
 
 ---
 
 ## 📧 Contact
 
-- **Security issues:** open an issue titled "Security Vulnerability", or contact the maintainer
-  privately if the details should not be public yet
+- **Security issues:** email [support@loupewire.com](mailto:support@loupewire.com), so the details
+  stay private until a fix ships. Please don't open a public issue for them
 - **General inquiries:** open an issue or start a discussion
-
----
-
-## 🚧 TODO
-
-- [ ] Enable Discussions
 
 ---
 
