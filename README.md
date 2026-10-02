@@ -4,8 +4,12 @@ Official bug tracker and feature request hub for **Loupewire** — a browser ext
 HTTP traffic from every tab in one window, masks secrets on screen and in the file, and exports a
 HAR you can attach to a ticket.
 
-> **Not published yet.** Loupewire is awaiting review on the Chrome Web Store. Install links and
-> the privacy policy will appear here once it is live.
+**[Website](https://loupewire.com/)** ·
+**[Chrome Web Store](https://chromewebstore.google.com/detail/dkoclbklglebhboiodckkicoajbcmbjd)** ·
+**[Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/fobjeeglpkfdalljagicbgelbdmhlhgf)** ·
+**[Guides](https://loupewire.com/guides/)** ·
+**[Privacy Policy](https://loupewire.com/privacy-policy/)** ·
+**[Terms](https://loupewire.com/terms/)**
 
 ---
 
@@ -75,8 +79,6 @@ Worth reading before reporting these as bugs:
 
 ## 🚧 TODO
 
-- [ ] Add Chrome Web Store and Edge Add-ons links once the extension is published
-- [ ] Publish the privacy policy and terms, then link them here
 - [ ] Enable Discussions
 
 ---
